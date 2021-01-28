@@ -14,7 +14,7 @@ Here are the best answers for the most popular Java questions asked in interview
   - appreciates the flexibility and reliability of code
   
 #### 2. Explain Encapsulation.  
-- Encapsulation is the concept of **restricting or hinding the internal characteristics** of a certain class from the other objects.  
+- Encapsulation is the concept of **restricting or hiding the internal characteristics** of a certain class from the other objects.  
 - In order to accelerate the power of encapsulation, Java implements 4 types of access modifiers which differentiates the accessibility of their members and objects from out of the class. The access modifiers are, **public**, **protected**, **default** and **private**.
 - Advantages of encapsulation are:
   - encapsulation fuels the approach of modularity of a program
