@@ -6,7 +6,7 @@ Here are the best answers for the most popular Java questions asked in interview
 ## Object Oriented Programming Concepts  
 
 #### 1. What are the advantages of OOP?
-- OOP contributes the special features namely **Inheritence**, **Encapsulation**, **Abstraction** and **Polymorphism** to development. The advantages of OOP are:  
+- OOP contributes to the development the special features namely **Inheritence**, **Encapsulation**, **Abstraction** and **Polymorphism**. The advantages of OOP are:  
   - enhances the reusability   
   - improves the readability of program  
   - follows the modular approach of development of program which helps in collaborating with distributed teams  
