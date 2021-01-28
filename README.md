@@ -22,7 +22,7 @@ Here are the best answers for the most popular Java questions asked in interview
   - thus, the modification and maintainibility costs are reduced significantly
   - overall, encapsulation adds up to the flexibility of any program
 
-#### Define Polymosphism and its types.
+#### 3. Define Polymosphism and its types.
 - *Polymorphism* is a Greek word meaning *many forms*. As its name suggests, the concept of polymorphism means that the single method differentiated by signatures or context works in different ways.
 - There are two types of Polymorphisms in Java:  
   - **Static or Compile-time Polymorphism:** If the function call or polymorphic method is resolved at the time of compilation, it is known as compile-time polymorphism.
