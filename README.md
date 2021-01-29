@@ -30,3 +30,5 @@ Here are the best answers for the most popular Java questions asked in interview
     - (**BONUS!** In C++, there is one more kind of static polymorphism known as **Operator overloading**. When the presence of operator shown different behavior with regards to its position and context (e.g unary and binary minus '-'), it is known as operator overloading. **Operator overloading is not supported in Java.** One of the reason for its elimination is for the sake of simplicity of language and working of JVM.    
   - **Dynamic or Run-time Polymorphism:** If the function call is resolved at the time of execution, it is known as run-time polymorphism.
     - **Method Overriding:** This type of polymorphism is implemeted within the subclasses in case of inheritance. When the **method from *subclass overrides* the implementations of the method in *parent class***, it is known as method overriding.
+    
+ #### 5. [Copy Constructors](https://techvidvan.com/tutorials/java-copy-constructor/) 
