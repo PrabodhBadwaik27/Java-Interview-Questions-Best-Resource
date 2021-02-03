@@ -52,3 +52,5 @@ Here are the best answers for the most popular Java questions asked in interview
     - Interfaces are the *abstract classes* which necessarily has all methods *abstract*.
     - Interfaces are defined by the keyword **interface**.
     - The implemetation of interfaces is inherited using keyword **implements**. 
+
+ #### 6. [Copy Constructors](https://techvidvan.com/tutorials/java-copy-constructor/) 
