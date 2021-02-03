@@ -3,6 +3,7 @@
 Here are the best answers for the most popular Java questions asked in interviews.  
 **Pre-requisites:** Basic Java Programming, Object Oriented Concepts.  
 **Expertise:** FRESHERS and EXPERIENCED PROFESSIONALS  
+**Good Sources and References:** [Reference 1](https://intellipaat.com/blog/interview-question/java-interview-questions/), [Reference 2](https://www.guru99.com/java-interview-questions-answers.html) 
 
 ## Object Oriented Programming Concepts  
 
